@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>NumbersPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.NumbersPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>1A71F814-4B10-4CFE-817B-1858C1687686</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.iWork.Numbers</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.NumbersPrefs.A9F6F470-42E2-4B6F-B391-231EE3356A91</string>
+
+			<key>PayloadUUID</key>
+			<string>8314D0D0-5165-46C4-AABA-FB7B2BC11CFC</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>TMAFirstLaunchVersion</key>
+			<integer>65549</integer>							
+		</dict>
+
+	</array>
+</dict>
+</plist>

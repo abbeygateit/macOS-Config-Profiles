@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<data>
+
+		certificate hash from profile manager
+
+			</data>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.pluto.edu.ecuad.ca.5eac5970-b29a-0133-ae5f-685b35b66dcf.alacarte.certificate.84502131-db6b-473d-8b36-bc78c6946c05</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>84502131-db6b-473d-8b36-bc78c6946c05</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Password</key>
+			<string></string>
+			<key>PayloadContent</key>
+			<data>
+
+		certificate hash from profile manager
+
+			</data>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.pluto.edu.ecuad.ca.5eac5970-b29a-0133-ae5f-685b35b66dcf.alacarte.certificate.11d5da14-5dff-46e0-8bc6-28a2b86b262a</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>11d5da14-5dff-46e0-8bc6-28a2b86b262a</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>MailCertificates</string>
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.MailCertificates</string>
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5eac5970-b29a-0133-ae5f-685b35b66dcf</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

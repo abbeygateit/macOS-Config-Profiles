@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>FinalCutPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.FinalCutPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>A59201F6-A116-4FCE-A7B0-A1CAAD3307CB</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.FinalCut</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.FinalCutPrefs.C4F3B3B5-29E1-459F-8353-371183A270BB</string>
+
+			<key>PayloadUUID</key>
+			<string>AD84C49C-C8FE-41C7-9CDA-FD3F888005F9</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>FFCheckedUpgrade</key>
+			<true/>					
+			<key>LKLastWhatsNewVersionDisplayed</key>
+			<integer>1</integer>
+			<key>LKWhatsNewDisplayedForAppVersion</key>
+			<dict>
+				<key>10.4.6</key>
+				<true/>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

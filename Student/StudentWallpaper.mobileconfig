@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>StudentWallpaper</string>
+
+	<key>PayloadIdentifier</key>
+	<string>StudentWallpaper</string>
+	
+	<key>PayloadUUID</key>
+	<string>5EFAD512-7F9B-4BB5-99FF-42B69FD87E72</string>
+	
+	<key>PayloadScope</key>
+	<string>User</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.desktop</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.StudentWallpaper.7C4E9DDE-0257-41EE-8427-D8337D5E3C51</string>
+
+			<key>PayloadUUID</key>
+			<string>9989B1C5-B66B-403C-B8A1-ED11E6788546</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>override-picture-path</key>
+			<string>/Library/Desktop Pictures/Solid Colors/Solid Gray Medium.png</string>
+			<key>locked</key>
+			<true/>								
+		</dict>	
+	</array>
+</dict>
+</plist>

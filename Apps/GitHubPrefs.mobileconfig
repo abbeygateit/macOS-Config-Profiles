@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>GitHubPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.GitHubPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>11E43E5E-E5D5-4AF4-88EB-936C53CE3948</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.github.GitHub.plist</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.GitHubPrefs.0F0FCDF3-4E1C-4E1B-866E-C51022750961</string>
+
+			<key>PayloadUUID</key>
+			<string>640BFDE9-6BB0-47AD-81F1-D74770C41429</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>GHHasLaunchedDesktop</key>
+			<integer>1</integer>							
+		</dict>
+	
+	</array>
+</dict>
+</plist>

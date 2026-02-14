@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>TextWranglerPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.TextWranglerPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>B6B52F5A-99CC-4AB0-80EC-27B8541282B8</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string>Sets user preferences for TextWrangler</string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.barebones.textwrangler</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.TextWranglerPrefs.D03F64A0-6CCF-4223-AB56-38952F47A8C4</string>
+			
+			<key>PayloadUUID</key>
+			<string>9D7B8581-99CF-4FB9-8827-9AE08A03D5AB</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>EditingWindowShowPageGuide</key>
+			<false/>
+			<key>EditorSoftWrap</key>
+			<false/>
+			<key>SoftWrapIndentation</key>
+			<integer>1</integer>
+			<key>SoftWrapStyle</key>
+			<integer>2</integer>
+			<key>StartupAndResumeAction</key>
+			<integer>1</integer>
+			<key>FirstRunComplete</key>
+			<true/>
+			<key>LastUpgradeAlertDate</key>
+			<date>2017-07-28T19:39:26Z</date>
+			<key>HasRunRegistrationDialog</key>
+			<true/>								
+			<key>UserDeclinedRegistration</key>
+			<true/>
+			<key>SUSoftwareUpdateEnabled</key>							
+			<false/>
+			<key>NewAndOpenPrefersSharedWindow</key>
+			<false/>						
+		</dict>	
+	</array>
+</dict>
+</plist>

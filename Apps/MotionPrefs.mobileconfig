@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>MotionPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.MotionPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>11B2FB56-872C-47F9-B9E5-F0C35B71724F</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.motionapp</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.MotionPrefs.4657DCCD-3AFC-41C1-940B-7EEEA6700CBA</string>
+
+			<key>PayloadUUID</key>
+			<string>3AEC54BE-559A-4ADB-88ED-9ADCDBD5CDD1</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>LKLastWhatsNewVersionDisplayed</key>
+			<integer>1</integer>	
+			
+			<key>LKWhatsNewDisplayedForAppVersion</key>
+			<dict>
+				<key>5.4.3</key>
+				<true/>
+			</dict>
+									
+		</dict>
+
+	</array>
+</dict>
+</plist>

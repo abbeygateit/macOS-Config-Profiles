@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>MunkiAdminPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.MunkiAdminPrefs</string>
+
+	<key>PayloadUUID</key>
+	<string>F1279D25-23A1-498F-AF22-AADD5F04247D</string>
+
+	<key>PayloadScope</key>
+	<string>User</string>
+
+	<key>PayloadDescription</key>
+	<string>Mounts Repo and sets up app prefs</string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<false/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+		
+			<key>PayloadType</key>
+			<string>com.hjuutilainen.MunkiAdmin</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.MunkiAdminPrefs</string>
+			
+			<key>PayloadDisplayName</key>
+			<string>MunkiAdminPrefs</string>
+
+			<key>PayloadUUID</key>
+			<string>E4BF709D-671F-4A4A-A661-A7012BF60A01</string>
+
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>DevMateAnalyticsEnabled</key>
+			<true/>
+			<key>DevMateAnalyticsPermissionAsked</key>
+			<true/>
+			<key>DevMateLaunchCount</key>
+			<integer>1</integer>
+			<key>NSNavLastRootDirectory</key>
+			<string>/Volumes/DeploymentRepository/MunkiRepo/manifests</string>								
+			<key>openRepositoryLastDir</key>
+			<string>/Volumes/DeploymentRepository/MunkiRepo</string>
+			<key>selectedRepositoryPath</key>
+			<string>/Volumes/DeploymentRepository/MunkiRepo</string>
+			<key>sidebarDirectoriesVisible</key>
+			<false/>
+			<key>sidebarInstallerTypesVisible</key>
+			<false/>
+			<key>startupWhatToDo</key>
+			<integer>2</integer>
+
+		</dict>
+	</array>
+</dict>
+</plist>

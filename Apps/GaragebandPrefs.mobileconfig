@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>GaragebandPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.GaragebandPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>FEB1D757-BEC0-4B88-BB98-ADF8085053BC</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.garageband10</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.GaragebandPrefs.12BA9E80-E4B3-4E39-ACB3-A0F228759624</string>
+
+			<key>PayloadUUID</key>
+			<string>7E2C29E7-DC0A-4369-95A3-AA5C33FDC8C5</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>welcomeScreenShown</key>
+			<true/>	
+			<key>DontShowAdditionalContentDowload</key>
+			<true/>					
+		</dict>
+	</array>
+</dict>
+</plist>

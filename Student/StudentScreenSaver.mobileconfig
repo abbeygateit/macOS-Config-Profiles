@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>StudentScreenSaver</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.StudentScreenSaver</string>
+	
+	<key>PayloadUUID</key>
+	<string>CBC08D0C-1D47-4E73-A53A-21AF3EEE9FAD</string>
+	
+	<key>PayloadScope</key>
+	<string>User</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.screensaver.ByHost</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.StudentScreenSaver.674EE1EF-9544-480C-A069-1728534877BA</string>
+
+			<key>PayloadUUID</key>
+			<string>5E100BEA-3A52-4495-BB3B-1C55EDE46BFB</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>idleTime</key>
+			<integer>1200</integer>
+			<key>moduleDict</key>
+			<dict>
+				<key>moduleName</key>
+				<string>Arabesque</string>
+				<key>path</key>
+				<string>/System/Library/Screen Savers/Arabesque.qtz</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>							
+
+		</dict>
+	</array>
+</dict>
+</plist>

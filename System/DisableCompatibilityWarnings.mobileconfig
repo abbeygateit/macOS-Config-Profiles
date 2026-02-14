@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>DisableCompatibilityWarnings</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.Disable32BitWarnings</string>
+	
+	<key>PayloadUUID</key>
+	<string>95A46D63-15E2-4BCE-87A9-E9446CBA646D</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.coreservices.uiagent</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.Disable32BitWarnings.C7462DED-AFD1-427B-A377-037D4115700E</string>
+
+			<key>PayloadUUID</key>
+			<string>FBBF03FE-48A5-4606-A1FF-5CBEAAE64F68</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>CSUIDisable32BitWarnings</key>
+			<true/>
+
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>ChromeLoginItem</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.ChromeLoginItem</string>
+	
+	<key>PayloadUUID</key>
+	<string>B46AC28E-6A98-4BBF-8FE0-2214DA596C9A</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>loginwindow</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.ChromeLoginItem.0EC01EB4-706E-499B-8611-B1397B356BBE</string>
+
+			<key>PayloadUUID</key>
+			<string>4F3B6E61-4C17-46A1-8C73-71E751046B23</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>AutoLaunchedApplicationDictionary</key>
+			  <array>
+				<dict>
+				  <key>Hide</key>
+				  <false/>
+				  <key>Path</key>
+				  <string>/Applications/Google\ Chrome.app</string>
+				</dict>
+			  </array>								
+		</dict>
+
+	</array>
+</dict>
+</plist>

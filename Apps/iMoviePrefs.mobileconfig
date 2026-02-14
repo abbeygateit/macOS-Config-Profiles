@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>iMoviePrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.iMoviePrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>672DFA31-75A2-4929-B895-221541B15358</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.iMovieApp</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.iMovieApp.E7437590-9049-4BBF-B324-188AD06FBACA</string>
+
+			<key>PayloadUUID</key>
+			<string>CAC48656-1EE9-4F54-966F-825C514C3C60</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>showWelcomeScreenAtStartup</key>
+			<string>0</string>
+			<key>showWhatsNewScreenAtStartup</key>
+			<string>0</string>		
+			<key>LKLastWelcomeVersionDisplayed</key>
+			<integer>2</integer>
+			<key>LKLastWhatsNewVersionDisplayed</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

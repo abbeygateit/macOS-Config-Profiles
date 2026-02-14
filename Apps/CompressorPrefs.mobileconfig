@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>CompressorPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.CompressorPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>C489E4DB-2DB4-4D7F-96CD-74FE0BE6B79F</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.Compressor</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.CompressorPrefs.F3463A19-6973-4D38-A8CF-4357B8DCC459</string>
+
+			<key>PayloadUUID</key>
+			<string>2F2655DA-856E-4470-9D3F-DD0695AC379B</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>LKLastWhatsNewVersionDisplayed</key>
+			<integer>1</integer>	
+			
+			<key>LKWhatsNewDisplayedForAppVersion</key>
+			<dict>
+				<key>4.4.4</key>
+				<true/>
+			</dict>
+									
+		</dict>
+
+	</array>
+</dict>
+</plist>

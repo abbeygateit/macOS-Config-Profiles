@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>DisableBluetoothAssist</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.DisableBluetoothAssist</string>
+	
+	<key>PayloadUUID</key>
+	<string>9328C21B-0F25-42B5-8438-B18C12EDA8A4</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.Bluetooth</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.DisableBluetoothAssist.23945CF6-8708-4361-A0A5-1D0D6C04E649</string>
+
+			<key>PayloadUUID</key>
+			<string>B35D9A3E-4E3F-4D5C-9333-22855B1A668E</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>BluetoothAutoSeekKeyboard</key>
+			<false/>
+			<key>BluetoothAutoSeekPointingDevice</key>
+			<false/>							
+
+		</dict>
+	</array>
+</dict>
+</plist>

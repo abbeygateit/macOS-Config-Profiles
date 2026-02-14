@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>AdminSystemPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.AdminSystemPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>CC1D58A5-9BAB-4CA0-B350-A15BBFEBD965</string>
+	
+	<key>PayloadScope</key>
+	<string>User</string>
+	
+	<key>PayloadDescription</key>
+	<string>Hides panels in system preferences</string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.AdminSystemPrefs.38BF3509-E713-4930-9EE5-D15A709D7334</string>
+
+			<key>PayloadUUID</key>
+			<string>41C414C8-380C-464C-B968-B037F5175F56</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>HiddenPreferencePanes</key>
+			<array>
+			<string>com.apple.preferences.parentalcontrols</string>							
+			</array>							
+		</dict>
+			
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>SafariPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.SafariPrefs</string>
+
+	<key>PayloadUUID</key>
+	<string>B279996D-EEF1-4E8B-8D55-8CD40D260575</string>
+
+	<key>PayloadScope</key>
+	<string>System</string>
+
+	<key>PayloadDescription</key>
+	<string></string>
+
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.SafariPrefs.AD25EB19-7E7F-468C-827A-1823C673EC61</string>
+			<key>PayloadUUID</key>
+			<string>986AE6C4-0D50-4123-ADF4-31FBE30DE567</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.Safari</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>LastSafariVersionWithWelcomePage</key>
+								<string>12.0.3</string>
+								
+								<key>AutoOpenSafeDownloads</key>
+								<false/>
+						
+								<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptCanOpenWindowsAutomatically</key>
+								<true/>
+						
+								<key>WebKitJavaScriptCanOpenWindowsAutomatically</key>
+								<true/>
+							
+								<key>ManagedPlugInPolicies</key>
+								<dict>
+									<key>com.macromedia.Flash Player.plugin</key>
+									<dict>
+										<key>PlugInDisallowPromptBeforeUseDialog</key>
+										<true/>
+										<key>PlugInFirstVisitPolicy</key>
+										<string>PlugInPolicyAllowWithSecurityRestrictions</string>
+									</dict>
+								</dict>
+								<key>PlugInInfo</key>
+								<dict>
+									<key>com.macromedia.Flash Player.plugin</key>
+									<dict>
+										<key>plugInCurrentState</key>
+										<true/>
+									</dict>
+									<key>com.microsoft.sharepoint.browserplugin</key>
+									<dict>
+										<key>plugInCurrentState</key>
+										<true/>
+									</dict>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

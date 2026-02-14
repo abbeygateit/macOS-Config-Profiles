@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>MampPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.MampPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>3ACF3531-D676-4CD5-8B2C-400AF6176FD2</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>de.appsolute.MAMP</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.MampPrefs.0C0C2CFA-CE15-4DA9-8E84-5694AEE91753</string>
+
+			<key>PayloadUUID</key>
+			<string>0D6DB921-F178-4F2C-9291-E1B0BF1FD847</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>NSWindow Frame MAMP</key>
+			<string>91 590 536 405 0 0 1920 1057 </string>
+			<key>checkForMampPro</key>
+			<false/>
+			<key>openPage</key>
+			<true/>
+			<key>startPage</key>
+			<string>/MAMP/</string>
+			<key>startServers</key>
+			<true/>
+			<key>stopServers</key>
+			<true/>							
+		</dict>
+	</array>
+</dict>
+</plist>

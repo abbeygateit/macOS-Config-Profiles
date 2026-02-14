@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadDisplayName</key>
+		<string>ServersCertificates</string>
+		<key>PayloadIdentifier</key>
+		<string>ca.ecuad.mactech.ServersCertificates</string>
+		<key>PayloadOrganization</key>
+		<string>EmilyCarrUniversity</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>5eac5970-b29a-0133-ae5f-685b35b66dcf</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>	
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Password</key>
+			<string></string>
+			<key>PayloadContent</key>
+			<data>
+			
+			hash block with certificate from profile manager
+			
+			</data>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.pluto.edu.ecuad.ca.5eac5970-b29a-0133-ae5f-685b35b66dcf.alacarte.certificate.5f95f827-4f2c-49ae-9c01-f3f38d3979e8</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>5f95f827-4f2c-49ae-9c01-f3f38d3979e8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<data>
+			
+			hash block with certificate from profile manager
+			
+			</data>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.pluto.edu.ecuad.ca.5eac5970-b29a-0133-ae5f-685b35b66dcf.alacarte.certificate.ae74aabc-53f6-4603-b976-9a88cf188618</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>ae74aabc-53f6-4603-b976-9a88cf188618</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<data>
+
+			hash block with certificate from profile manager
+
+			</data>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.pluto.edu.ecuad.ca.5eac5970-b29a-0133-ae5f-685b35b66dcf.alacarte.certificate.19fc2d3f-b2d9-4087-9d18-95c5e61b9574</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>19fc2d3f-b2d9-4087-9d18-95c5e61b9574</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>	
+</dict>
+</plist>

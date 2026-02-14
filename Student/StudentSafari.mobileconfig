@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>StudentSafari</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.StudentSafari</string>
+
+	<key>PayloadUUID</key>
+	<string>20766394-BF3D-470D-8A70-7698896AA2DE</string>
+
+	<key>PayloadScope</key>
+	<string>User</string>
+
+	<key>PayloadDescription</key>
+	<string></string>
+
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.StudentSafari.0A560334-4C8F-4D25-90E9-C2EA05AF92FF</string>
+			<key>PayloadUUID</key>
+			<string>3377ead0-2310-0131-32ec-000c2944c108</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.Safari</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AlwaysShowFavoritesBarInFullScreen</key>
+								<false/>
+								<key>AlwaysShowTabBar</key>
+								<false/>
+								<key>AlwaysShowTabBarInFullScreen</key>
+								<false/>
+								<key>AutoFillCreditCardData</key>
+								<false/>
+								<key>AutoFillFromAddressBook</key>
+								<false/>
+								<key>AutoFillMiscellaneousForms</key>
+								<false/>
+								<key>AutoFillPasswords</key>
+								<false/>
+								<key>DownloadsPath</key>
+								<string>~/Downloads</string>
+								<key>DownloadsPathWasConverted</key>
+								<true/>
+								<key>CanPromptForPushNotifications</key>
+								<false/>
+								<key>ExtensionsEnabled</key>
+								<false/>
+								<key>HistoryAgeInDaysLimit</key>
+								<integer>1</integer>
+								<key>InstallExtensionUpdatesAutomatically</key>
+								<false/>
+								<key>LastDisplayedWelcomePageVersionString</key>
+								<string>4.0</string>
+								<key>NSToolbar Configuration BrowserToolbarIdentifier-v2</key>
+								<dict>
+									<key>TB Display Mode</key>
+									<integer>2</integer>
+									<key>TB Icon Size Mode</key>
+									<integer>1</integer>
+									<key>TB Is Shown</key>
+									<integer>1</integer>
+									<key>TB Size Mode</key>
+									<integer>1</integer>
+								</dict>
+								<key>NSToolbar Configuration BrowserWindowToolbarIdentifier</key>
+								<dict>
+									<key>TB Display Mode</key>
+									<integer>2</integer>
+									<key>TB Icon Size Mode</key>
+									<integer>1</integer>
+									<key>TB Is Shown</key>
+									<integer>1</integer>
+									<key>TB Size Mode</key>
+									<integer>1</integer>
+								</dict>
+								<key>NSToolbar Configuration NSPreferences</key>
+								<dict>
+									<key>TB Display Mode</key>
+									<integer>1</integer>
+									<key>TB Icon Size Mode</key>
+									<integer>1</integer>
+									<key>TB Is Shown</key>
+									<integer>1</integer>
+									<key>TB Size Mode</key>
+									<integer>1</integer>
+								</dict>
+								<key>NewTabBehavior</key>
+								<integer>0</integer>
+								<key>NewWindowBehavior</key>
+								<integer>0</integer>
+								<key>OpenNewTabsInFront</key>
+								<true/>
+								<key>PMPrintingExpandedStateForPrint2</key>
+								<true/>
+								<key>ProxiesInBookmarksBar</key>
+								<array>
+									<string>Top Sites</string>
+								</array>
+								<key>RecentWebSearches</key>
+								<array/>
+								<key>ResetTopSitesFromClearHistoryPrompt</key>
+								<true/>
+								<key>SafariGeolocationPermissionPolicy</key>
+								<integer>1</integer>
+								<key>SendDoNotTrackHTTPHeader</key>
+								<true/>
+								<key>ShowFavoritesBar-v2</key>
+								<false/>
+								<key>ShowSidebarInTopSites</key>
+								<false/>
+								<key>ShowStatusBar</key>
+								<true/>
+								<key>ShowStatusBarInFullScreen</key>
+								<true/>
+								<key>SidebarViewModeIdentifier</key>
+								<string>Bookmarks</string>
+								<key>ShowFavoritesBar-v2</key>
+								<false/>
+								<key>ShowStatusBar</key>
+								<false/>
+								<key>ShowStatusBarInFullScreen</key>
+								<false/>
+								<key>SidebarViewModeIdentifier</key>
+								<string>Bookmarks</string>
+								<key>UniversalSearchFeatureNotificationHasBeenDisplayed</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

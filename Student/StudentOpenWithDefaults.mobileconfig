@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>StudentOpenWithDefaults</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.StudentOpenWithDefaults</string>
+	
+	<key>PayloadUUID</key>
+	<string>2CDF54A3-5942-44CD-8D8C-3200C1461527</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string>Sets default apps to open files with.</string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.launchservices.secure</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.StudentOpenWithDefaults.5133ACC9-4E5E-48D6-8FAE-391C9F4D5954</string>
+
+			<key>PayloadUUID</key>
+			<string>6BF96264-D64A-4032-9CF4-FEC0CBDBE99F</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>LSHandlers</key>
+			<array>							
+				<dict>
+					<key>LSHandlerContentType</key>
+					<string>public.mp3</string>
+					<key>LSHandlerPreferredVersions</key>
+					<dict>
+						<key>LSHandlerRoleAll</key>
+						<string>-</string>
+					</dict>
+					<key>LSHandlerRoleAll</key>
+					<string>com.apple.quicktimeplayerx</string>
+				</dict>
+			</array>			
+		</dict>	
+	</array>
+</dict>
+</plist>

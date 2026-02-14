@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>ChromePrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.ChromePrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>D4BFB180-6B02-4B26-9D29-254ED77B0C4B</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.ChromePrefs.BDDDC6BF-8DD9-4631-A490-A74A4E5F97F2</string>
+
+			<key>PayloadUUID</key>
+			<string>9FC2BCF9-83C0-4050-B34D-F93EAF252656</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>DisablePrintPreview</key>
+			<true/>
+			<key>PMPrintingExpandedStateForPrint2</key>
+			<true/>			
+		</dict>
+
+	</array>
+</dict>
+</plist>

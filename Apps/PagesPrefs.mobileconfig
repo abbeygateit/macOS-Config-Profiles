@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>PagesPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.PagesPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>9E5ABE9C-5441-4660-8168-08DFBBF61ACD</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.iWork.Pages</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.PagesPrefs.9165989F-5A84-480E-B975-55491A027833</string>
+
+			<key>PayloadUUID</key>
+			<string>BA43E2D7-0E46-4846-8B83-06B8D2212276</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>TMAFirstLaunchVersion</key>
+			<integer>65549</integer>							
+		</dict>
+
+	</array>
+</dict>
+</plist>

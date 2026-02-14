@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>NotesPrefs</string>
+
+	<key>PayloadIdentifier</key>
+	<string>ca.ecuad.mactech.NotesPrefs</string>
+	
+	<key>PayloadUUID</key>
+	<string>CB24623B-477D-49B2-BB54-74CD913B5537</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string></string>
+	
+	<key>PayloadOrganization</key>
+	<string>EmilyCarrUniversity</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.Notes</string>
+
+			<key>PayloadIdentifier</key>
+			<string>ca.ecuad.mactech.NotesPrefs.ABF8A5E8-C6EA-403D-975D-A3AE8D8406C7</string>
+
+			<key>PayloadUUID</key>
+			<string>0228A89D-B784-4213-9078-672D43024998</string>
+	
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		
+			<key>PayloadEnabled</key>
+			<true/>
+
+			<key>DidChooseToMigrateLocalAccount</key>
+			<true/>
+			<key>DidMigrateLocalAccount</key>
+			<true/>
+			<key>didShowMoveToRecentyDeletedFolderAlert</key>
+			<true/>
+			<key>hasShownWelcomeScreen</key>
+			<true/>
+						
+		</dict>
+	
+	</array>
+</dict>
+</plist>
